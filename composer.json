@@ -5,13 +5,13 @@
         "macsidigital",
         "laravel-api-client"
     ],
-    "homepage": "https://github.com/macsidigital/laravel-api-client",
+    "homepage": "https://github.com/edKhrulev/laravel-api-client",
     "license": "MIT",
     "type": "library",
     "authors": [
         {
-            "name": "Colin Hall",
-            "email": "colin@macsi.co.uk"
+            "name": "Eduard Khrulyov",
+            "email": "edkhrulev@gmail.com",
         }
     ],
     "require": {
