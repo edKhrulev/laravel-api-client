@@ -1,5 +1,5 @@
 {
-    "name": "khrulyov/laravel-api-client ^4.0.2",
+    "name": "khrulyov/laravel-api-client",
     "description": "Laravel API Client Builder package",
     "keywords": [
         "macsidigital",
